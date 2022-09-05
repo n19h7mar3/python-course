@@ -10,10 +10,10 @@ The aim of these tasks is to improve:
 
 However there are subtle differences between the tasks:
   - Task 1 is considerably easy as you **only** have to think about **three numbers**.
-<br />
+>  
   - Task 2 makes it a little harder by making you think about an **arbitrary amount of numbers**
     - Still keeps it a little simple by using an array to store those numbers.
-<br />
+>
   - Task 3 **forces you** to **get rid of the array** and pass your `arbitrary amount of numbers` **as arguments to the function**
     - It's internal working is pretty much the same as Task 2. The only thing needing **change** being **the function header**.
 
