@@ -1,9 +1,3 @@
----
-title: Conditionals
-created: '2022-09-02T13:46:03.455Z'
-modified: '2022-09-02T14:58:24.085Z'
----
-
 # Conditionals
 
 ## Booleans
